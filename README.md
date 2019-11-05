@@ -1,1 +1,3 @@
-# class-2019-10-17
+# Immigration Data
+
+This class project involved downloading and analyzing immigration data.
